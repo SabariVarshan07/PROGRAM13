@@ -2,9 +2,7 @@
 
 ## Objective
 
-Complete the HTML/CSS for the Scott Sampson speaker page and **create a vertical navigation menu in the given html page**
-
-The goal is to reproduce the Town Hall layout using HTML and CSS.
+Complete the HTML/CSS for the Scott Sampson speaker page and **create a vertical navigation menu in the given html page**using HTML and CSS.
 
 ## Requirements
 
